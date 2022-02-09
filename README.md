@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/@ionic-6-lightskyblue)
 
-Learning and exploring Ionic framework with HTML and vanilla javascript
+Learning and exploring [Ionic](https://ionicframework.com/) framework with HTML and vanilla javascript
 
 **Ionic Framework CDN**
 
@@ -14,6 +14,7 @@ Learning and exploring Ionic framework with HTML and vanilla javascript
 
 ## Ionic Documentation
 
+- https://ionicframework.com/
 - https://ionicframework.com/docs/
 - https://ionicframework.com/docs/intro/cdn
 - https://ionicframework.com/docs/components
