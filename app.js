@@ -43,7 +43,7 @@ const presentAlert = async () => {
     alert.cssClass = 'my-custom-class';
     alert.header = 'Invalid inputs';
     alert.subHeader = 'Alert message';
-    alert.message = 'This is an alert message.';
+    alert.message = 'Please enter valid reason and amount.';
     alert.buttons = ['Okay', 'Alright'];
 
     document.body.appendChild(alert);
